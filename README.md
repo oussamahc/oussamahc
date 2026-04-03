@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## 🎓 About Me
 
-Computer Engineering Student passionate about Software Development and AI.
+Security & Software Engineering Student passionate about Software Development and Cloud.
 Currently building modern web applications and improving my full-stack skills.
 
 ## 🔧 Tech Stack
@@ -42,8 +42,8 @@ Currently building modern web applications and improving my full-stack skills.
 
 ## 📫 Contact
 
-* LinkedIn: (your link)
-* Email: (your email)
+* LinkedIn: Oussama Ouadia
+* Email: ouadiaoussama.prf@gmail.com
 
 ---
 
