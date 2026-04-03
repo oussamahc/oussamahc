@@ -17,29 +17,35 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Oussama Ouadia
 
-🎓 Software Engineering Student  
-💻 Passionate about Software Development, Security & Cloud  
-🚀 Currently working on Web Apps (React, Spring Boot, MySQL)  
+## 🎓 About Me
+
+Computer Engineering Student passionate about Software Development and AI.
+Currently building modern web applications and improving my full-stack skills.
 
 ## 🔧 Tech Stack
-- Languages: Java, C++, JavaScript  
-- Frontend: React, Tailwind CSS  
-- Backend: Spring Boot  
-- Database: MySQL  
 
-## 📌 Current Projects
-- 💰 Budget Management Web App  
-- 🌱 AI Environmental Impact Analyzer  
+* Java, C++, JavaScript
+* React, Tailwind CSS
+* Spring Boot
+* MySQL
+
+## 🚀 Projects
+
+* Budget Management Web App
+* AI Environmental Impact Analyzer
 
 ## 🎯 Goals
-- Improve my full-stack development skills  
-- Build impactful AI-driven applications  
-- Participate in hackathons  
 
-## 📫 Contact Me
-- LinkedIn: Oussama Ouadia
-- Email: ouadiaoussama.prf@gmail.com
+* Grow as a full-stack developer
+* Build impactful AI-driven solutions
+* Participate in hackathons
+
+## 📫 Contact
+
+* LinkedIn: (your link)
+* Email: (your email)
 
 ---
 
-⭐️ Feel free to check out my repositories!
+⭐️ Check out my repositories!
+
