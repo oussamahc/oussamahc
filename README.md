@@ -17,35 +17,17 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Oussama Ouadia
 
-## 🎓 About Me
+##  About Me
 
 Security & Software Engineering Student passionate about Software Development and Cloud.
 Currently building modern web applications and improving my full-stack skills.
 
-## 🔧 Tech Stack
+##  Tech Stack
 
-* Java, C++, JavaScript
-* React, Tailwind CSS
-* Spring Boot
-* MySQL
-
-## 🚀 Projects
-
-* Budget Management Web App
-* AI Environmental Impact Analyzer
-
-## 🎯 Goals
-
-* Grow as a full-stack developer
-* Build impactful AI-driven solutions
-* Participate in hackathons
-
-## 📫 Contact
-
-* LinkedIn: Oussama Ouadia
-* Email: ouadiaoussama.prf@gmail.com
-
----
+* Java, C++, JavaScript, TypeScript
+* React, Angular
+* Spring Boot, Django, ExpressJs
+* MySQL, Postgres, MongoDB, Neo4j
 
 ⭐️ Check out my repositories!
 
