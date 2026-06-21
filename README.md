@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋, I'm Oussama Ouadia
+# Hi , I'm Oussama Ouadia
 
 ##  About Me
 
@@ -31,5 +31,5 @@ Currently building modern web applications and improving my full-stack skills.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-⭐️ Check out my repositories!
+ Check out my repositories!
 
